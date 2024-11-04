@@ -50,7 +50,7 @@
 &kp F1     &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &kp SPACE  &mo 1     &kp ENTER        &kp MINUS  &kp SPACE  &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
             >;
 
-            sensor-bindings = <&inc_dec_kp K_FORWARD K_BACK>;
+            sensor-bindings = <&inc_dec_kp C_NEXT C_PREV>;
             display-name = "LAYER0";
         };
 
